@@ -1,6 +1,6 @@
 body {
   margin: 0px;
-  background-image: url('gamescreenshot.png');
+  background-image: url('gamescreenshot2.png');
   /* background-position: center; */
   background-repeat: no-repeat;
   background-size: cover;
@@ -41,8 +41,8 @@ html, body {
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: rgb(50, 167, 34);
+    color: white;
   }
   
   /* Add a color to the active/current link */
